@@ -3,7 +3,7 @@
   BY ANONIK 
   
   
- <img src=" https://raw.githubusercontent.com/anonik9900/BackFucker/master/Screenshot%20from%202019-11-04%2020-34-17.png"
+<img src ="https://github.com/anonik9900/Essential-Menu/blob/master/preview/preview5.png?raw=true">
   
   <code> chmod +x backfukcer.py </code>
   <br>
