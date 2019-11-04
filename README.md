@@ -1,6 +1,10 @@
 # BackFucker
 
   BY ANONIK 
+  
+  <code> chmod +x backfukcer.py </code>
+  <br>
+  <code> ./backfucker.py
 
 
 
