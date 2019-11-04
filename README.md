@@ -2,6 +2,8 @@
 
   BY ANONIK 
   
+  https://github.com/anonik9900/BackFucker/blob/master/Screenshot%20from%202019-11-04%2020-34-17.png
+  
   <code> chmod +x backfukcer.py </code>
   <br>
   <code> ./backfucker.py
